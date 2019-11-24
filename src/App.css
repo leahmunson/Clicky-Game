@@ -20,3 +20,20 @@
 .App-link {
   color: #09d3ac;
 }
+
+.title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.scoreSummary {
+  width: 71%;
+  text-align: center;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.row {
+  margin: 30px;
+}
